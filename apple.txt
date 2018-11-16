@@ -1,7 +1,6 @@
 apple.txt
-@@@@@@@@@@@@@@@@@@
-apple  edit master 
-apple  edit master 
+@@@@@@@@@@
+bulabulabula
 apple  edit hot-fix 
 apple  asdasdasdasda
 新加的东西
