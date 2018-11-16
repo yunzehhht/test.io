@@ -2,6 +2,6 @@ apple.txt
 @@@@@@@@@@@@@@@@@@
 apple  edit master 
 apple  edit master 
-apple  edit master 
-apple  edit master 
+apple  edit hot-fix 
+apple  edit hot-fix 
 
